@@ -1,7 +1,7 @@
 Code samples
 =====
 
-2
+3
 
 
 Generate [x-codeSamples](https://github.com/Rebilly/ReDoc/blob/master/docs/redoc-vendor-extensions.md#x-codeSamples)
