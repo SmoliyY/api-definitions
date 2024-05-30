@@ -1,6 +1,6 @@
 openapi: 3.0.3
 info:
-  version: "latest"
+  version: dadadad
   title: Rebilly API
   contact:
     name: "Rebilly API Support"
